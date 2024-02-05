@@ -284,7 +284,7 @@ nav ul li a,
     }
 
     .featured img {
-        content: url("./assets/images/image-web-3-desktop.jpg");
+        content: url("assets/images/image-web-3-desktop.jpg");
     }
     .hamburger {
         display: none;
